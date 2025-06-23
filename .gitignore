@@ -73,7 +73,6 @@ ipython_config.py
 *.xlsx
 *.xls
 *.zip
-data/
 uploads/
 downloads/
 temp/
